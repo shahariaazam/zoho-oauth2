@@ -45,7 +45,7 @@ Please see [CONTRIBUTING](https://github.com/shahariaazam/zoho-oauth2/blob/maste
 
 ## Credits
 
-- [Steven Maguire](https://github.com/stevenmaguire)
+- [Shaharia Azam](https://github.com/shahariaazam)
 - [All Contributors](https://github.com/shahariaazam/zoho-oauth2/contributors)
 
 
